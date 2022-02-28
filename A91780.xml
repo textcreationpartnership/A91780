@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lay by your pleading, law lies a-bleeding</title>
+            <author>Richards, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91780</idno>
+            <idno type="STC">Wing R1371A</idno>
+            <idno type="STC">ESTC R42764</idno>
+            <idno type="EEBO-CITATION">38875724</idno>
+            <idno type="OCLC">ocm 38875724</idno>
+            <idno type="VID">152343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152343)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lay by your pleading, law lies a-bleeding</title>
+                  <author>Richards, James.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Leake ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: James Richards.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Private revelations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152343:1"/>
+            <pb n="1" facs="tcp:152343:1" rendition="simple:additions"/>
+            <head>Lay by your Pleading, Law lies a-Bleeding.</head>
+            <p>
+               <hi>HAbak.</hi> 1.4. <hi>Nahum</hi> 3.7, 14, 18. <hi>Rom.</hi> 6.1, 2, 3. O King, thy Shepherds
+ſlum<g ref="char:EOLhyphen"/>ber: Therefore the Law is ſlacked, and Judgment doth never go forth; for the Wicked doth
+compaſs about the Righteous. Bemoan her: Whence ſhall I ſeek Comforters? For they make
+ſtrong the Brick-Hills. Like Fig-Trees with the firſt ripe Figs; if they be ſhaken, they
+ſhall even fall into the Mouth of the Eater. What ſhall we ſay then? Shall we continue in
+Sin, That Grace may abound? <hi>God</hi> forbid. How ſhall we that are dead to Sin, live any
+longer? Know ye not that ſo many of us as were Baptized into <hi>Jeſus Chriſt,</hi> were
+Baptized into his Death? <hi>Prov.</hi> 15.18, 19. The Heart of the Righteous ſtudieth to
+anſwer; but the Mouth of the Wicked poureth out evil things. <hi>Job</hi> 7.11. Wherefore I will
+not refrain my Mouth; I will ſpeak. <hi>Job</hi> 42.5. I have heard of Thee by the hearing of the
+Ears; but now mine Eye ſeeth. <hi>Job</hi> 12.3, 4. But I have Underſtanding, as well as you; I
+am not inferior to you: Yea, who knoweth not ſuch things as theſe? I am as one mocked of his
+Neighbours, who calleth upon <hi>God. Job</hi> 20.27. Doth not the Ear try Words, and the Mouth
+taſte his Meat? <hi>Job</hi> 24.12. The Heaven ſhall reveal his Iniquity, and the Earth ſhall
+riſe up againſt him: Men groan from out of the City, and the Soul of the Wounded crieth out.
+<hi>Revel.</hi> 20.4. <hi>Matth.</hi> 23.31. <hi>Jam.</hi> 5.4. <hi>Revel.</hi> 6.20. For the
+Witneſs of them that were beheaded, crieth; and the Cries of them are entred into the Ears of the
+<hi>Lord God</hi> of Sabbath. And they cried with a loud Voice, ſaying, How long, O
+<hi>Lord,</hi> Holy and True, doeſt Thou not judge and avenge our Blood on them that dwell on the
+Earth? <hi>Act.</hi> 17.6, 7. 1 <hi>Sam.</hi> 15.23. Thoſe that have turn'd the VVorld upſide
+down, are come hither alſo; and theſe all do contrary to the Decrees. For Rebellion is as the
+Sin of VVitchcraft, and Stubbornneſs is as Iniquity. <hi>Jude</hi> 8.10, 11, 16, 19. Theſe be
+they who ſeparate themſelves, ſenſual, having not the Spirit: Wo unto them; for they have
+gone in the way of <hi>Cain,</hi> and ran greedily after the Er<g ref="char:EOLhyphen"/>ror of <hi>Balaam</hi> for Reward,
+and periſhed in the Gain-ſaying of <hi>Core.</hi> But theſe ſpeak evil of thoſe things
+which they know not; but what they know naturally, as brute Beaſts, in thoſe things they
+corrupt themſelves. Theſe are Murmurers, Complainers, walking after their own Luſts, and
+their Mouth ſpeaketh great ſwelling Words; ha<g ref="char:EOLhyphen"/>ving Men's-Perſons in Admiration, becauſe of
+Advantage; deſpiſe Dominion, and ſpeak evil of Dignities. <hi>Iſa.</hi> 59.7, 8. Their Feet
+run to Evil, and they make haſte to ſhed Innocent Blood: Whoſoever goeth therein, ſhall not
+know Peace. <hi>Matth.</hi> 11.15. He that hath Ears to hear, let him hear. <hi>Jam.</hi> 2.19, 20.
+Thou believeſt that there is one <hi>God,</hi> thou doeſt well; the Devils alſo believe, and
+tremble. But wilt thou know, O vain Man? <hi>Job</hi> 27.11. I will teach you by the Hand of
+<hi>God;</hi> that which is with the <hi>Almighty,</hi> will I not conceal. <hi>Job</hi> 23.5.
+<hi>Job</hi> 22.4, 5, 6. I will know the Words which he would anſwer me, and what he will ſay
+unto me. Will he reprove thee for fear of thee? Is not thy Wickedneſs great, and thine Iniquity
+infinite? 1 <hi>Sam.</hi> 8.7. For they have not rejected thee, but they have rejected me, that I
+ſhould not Reign over them. 2 <hi>Pet.</hi> 2.17, 18, 19. Theſe are Wells without Water, Clouds
+that are carried with a Tempeſt; to whom the Miſt of Darkneſs is reſerved for ever: For
+when they ſpeak great ſwelling Words of Vanity, they allure them who live in Error:
+<pb n="2" facs="tcp:152343:2"/>While they promiſe them Liberty, they
+themſelves are the Servants of Corruption; for of whom a Man is overcome, of the ſame is he
+brought in bondage. <hi>Matth.</hi> 22.29. <hi>Matth.</hi> 18.7. Ye do err, not knowing the
+Scriptures, nor the Power of <hi>God.</hi> Wo unto the World, becauſe of Offences; for it muſt
+needs be, that Offences come: But, wo to that Man, by whom the Offence cometh! <hi>Gen.</hi> 42.21,
+22. <hi>Pſal.</hi> 150.15. <hi>Pſal.</hi> 12.4. And they ſaid one to another, We are verily
+guilty concerning our Bro<g ref="char:EOLhyphen"/>ther, in that we ſaw the Anguiſh of his Soul, when he beſought us,
+and we would not hear. Who have ſaid with our Tongue, We will prevail. Our Lips are our own; who
+is Lord over us? Therefore, behold, his Blood is required. Spake I not unto you, ſaying, Touch
+not my Anointed,, and do my Prophets no harm. <hi>Matth.</hi> 23.30, 31, 32, 33. And they ſaid,
+If we had been in the Days of our Fathers, we would not have been Partakers with them in the Blood
+of the Prophets: Wherefore, ye be Witneſſes unto your ſelves, that ye are the Children of
+them which killed the Pro<g ref="char:EOLhyphen"/>phets: Fill ye up then the Meaſure of your Fathers. Ye Serpents, ye
+Generation of Vipers; How can ye eſcape the Damnation of Hell? <hi>Jam.</hi> 5.6. <hi>Jam.</hi>
+2.13. Ye have condemned and killed the Juſt, and he doth not reſiſt you. For he ſhall have
+Judg<g ref="char:EOLhyphen"/>ment without Mercy, that hath ſhewed no Mercy: And Mercy rejoyceth againſt Judg<g ref="char:EOLhyphen"/>ment.
+<hi>Act.</hi> 8.21, 22, 23. Repent therefore of this thy Wickedneſs, and pray <hi>God,</hi> if
+perhaps the thought of thine Heart may be forgiven thee; for thy Heart is not right in the Sight of
+<hi>God:</hi> For I perceive, that thou art in the gall of Bitterneſs, and in the bond of
+Iniquity. 2 <hi>Pet.</hi> 3.17, 18. Ye therefore, Beloved, ſeeing ye know theſe things, beware
+leſt ye alſo, being led away with the Error of the Wicked, ye fall from your own
+ſtedfaſtneſs: But grow in Grace, and in the Knowledge of our Lord and Saviour <hi>Je<g ref="char:EOLhyphen"/>ſus
+Chriſt.</hi> 1 <hi>John</hi> 1.6, 7. If we ſay, That we have Fellowſhip with him, and walk in
+Darkneſs, we lie, and do not the Truth: But if we walk in the Light, as he is in the Light, we
+have Fellowſhip with one another; and the Blood of <hi>Jeſus Chriſt,</hi> his Son,
+cleanſeth us from all Sin. 1 <hi>Tim.</hi> 5.25. Likewiſe, alſo the good Works of ſome are
+manifeſt before-hand; and they that are otherwiſe, cannot be hid. 2 <hi>Tim.</hi> 3.4, 5.
+Traytors, heady, high-minded; having a Form of Godlineſs, but denying the Power thereof: From
+ſuch turn away. <hi>Prov.</hi> 14.4, 6. Where no Oxen are, the Crib is clean. A Scorner ſeeketh
+Wiſdom, and findeth it not; but Knowledge is ea<g ref="char:EOLhyphen"/>ſie unto him that underſtandeth.
+<hi>Prov.</hi> 6.23. For the Commandment is a Lamp, and the Law is Light; and Reproofs of
+Inſtruction are the way of Life. <hi>Prov.</hi> 4.25, 26, 27. Let thine Eyes look right on, and
+let thine Eye-lids look ſtraight before thee: Pon<g ref="char:EOLhyphen"/>der the Path of thy Feet, and let all thy ways
+be eſtabliſhed. Turn not to the Right Hand, nor to the Left; remove thy Foot from Evil.
+<hi>Prov.</hi> 3.21, 23. <hi>Prov.</hi> 18.10. <hi>Gen.</hi> 19.20. My Son, behold now, this City
+is near to flee unto it: Walk in thy way ſafely, and thy Foot ſhall not ſtumble. The Name of
+the <hi>Lord</hi> is a Strong Tower; the Righteous runneth into it, and is ſafe. <hi>Joh.</hi>
+15.3, 4. Now, ye are clean, through the Word which I have ſpoken unto you. As the Branch cannot
+bear Fruit of it ſelf, except it abide in the Vine; no more can ye, except ye abide in me. If a
+Man abide not in me, he is caſt forth as a Branch, and is withered; and Men gather them, and
+caſt them into the Fire, and they are burned. <hi>Matth.</hi> 14.13. <hi>Luk.</hi> 17.32.
+<hi>Luk.</hi> 9.44. But he that ſhall endure unto the End, the ſame ſhall be ſaved.
+Remember <hi>Lot</hi>'s Wife. Let theſe Sayings ſink down into your Ears. <hi>Luk.</hi> 21.36.
+Watch ye therefore, and and Pray always, that ye may be accounted worthy to eſcape all theſe
+things that ſhall come to paſs; and to ſtand before the Son of Man. 2 <hi>Cor.</hi> 5.7. For
+we walk by Faith, not by Sight. 2 <hi>Cor.</hi> 6.3. 2 <hi>Cor.</hi> 8.12, 21. Giving no Offence in
+any thing, that the Miniſtry be not blamed. Providing for honeſt things, not only in the Sight
+of the <hi>Lord,</hi> but alſo in the Sight of Men: For if there be firſt a willing Mind, it is
+accepted. 2 <hi>Cor.</hi> 2.14, 15. Whereunto he called you by our Goſpel; therefore, Brethren,
+ſtand faſt, and hold. 2 <hi>Tim.</hi> 1.12. For the which cauſe, I alſo ſuffer theſe
+things; nevertheleſs I am not aſhamed: For I know whom I have believed; and I am perſwaded,
+that he is able to keep that which I have committed unto him, againſt that Day. <hi>Iſa.</hi>
+54.4, 5, 6, 8, 10. 2 <hi>Cor.</hi> 6.2. Fear not, for thou ſhalt not be aſha<g ref="char:EOLhyphen"/>med; neither be
+thou confounded, for thou ſhalt not be put to ſhame: For thou ſhalt forget the ſhame of thy
+Youth, and ſhalt not remember the Reproach of thy Widow-hood any more: For thy Maker is thine
+Husband; the <hi>Lord of Hoſts</hi> is his Name. For the <hi>Lord</hi> hath called thee as a
+VVoman forſaken, and grieved in Spirit. For the Mountains ſhall depart, and the Hills be
+removed; but my Kindneſs ſhall not depart from thee. In a little VVrath I hid my Face from
+thee, for a moment; but with everlaſting Kindneſs will I have Mercy on thee, ſaith the
+<hi>Lord</hi> thy Redeemer.
+<pb n="3" facs="tcp:152343:2" rendition="simple:additions"/>For he ſaith, I have heard thee in a time
+accepted, and in the Day of Salvation have I ſuccoured thee. Behold, now is the accepted Time;
+behold, now is the Day of Salvation. <hi>Iſa.</hi> 51.12. I, even I, am he that comforteth you.
+VVho art thou, that thou ſhould'ſt be afraid of Man, that ſhall die; and of the Son of Man,
+that ſhall be made as Graſs? 2 <hi>Tim.</hi> 6.18. And the <hi>Lord</hi> ſhall deliver me
+from every evil VVork, and will preſerve me to his Heavenly Kingdom. 1 <hi>John</hi> 3.22. And
+whatſoever we ask, we receive of him; becauſe we keep his Commandments, and do thoſe things
+that are pleaſing in his Sight. <hi>Pſal.</hi> 57.2, 3. I will cry unto <hi>God</hi> moſt
+high, unto <hi>God</hi> that performeth all theſe things for me; He ſhall ſend from Heaven,
+and ſave me from the Reproach of him that would ſwallow me up. <hi>God</hi> ſhall ſend
+forth his Mercy, and his Truth. I have choſen the way of Truth. Thy Teſtimonies alſo are my
+Delight, and my Counſellors: O how I love thy Law! It is my Meditation all the Day.
+<hi>Pſal.</hi> 119.84, 85, 86. How many are the Days of thy Servant? VVhen wilt thou execute
+Judgment on them that perſecute me? The Proud have digged Pits for me, which are not after thy
+Law. All thy Commandments are faithful. They per<g ref="char:EOLhyphen"/>ſecute me wrongfully, help thou me.
+<hi>Gal.</hi> 1.12, 13. <hi>Pſal.</hi> 119.112. I have not de<g ref="char:EOLhyphen"/>parted from thy Judgments; for thou
+haſt taught me: for I neither received it of Men, neither was I taught it, but by the Revelation
+of <hi>Jeſus Chriſt.</hi> For ye have heard of my Converſation in time paſt. <hi>Gal.</hi>
+3.7, 9. Know ye therefore, that they which are of Faith, the ſame are the Children of
+<hi>Abraham:</hi> So then, they which be of Faith, are bleſſed with Faithful <hi>Abraham.
+Gal.</hi> 6.9. And let us not be weary in well-doing; for, in due Seaſon, we ſhall reap, if we
+faint not. <hi>Epheſ.</hi> 5.14. VVherefore he ſaith, Awake thou that ſleepeſt, and ariſe
+from the Dead, and <hi>Chriſt</hi> ſhall give thee Light. 1 <hi>Cor.</hi> 5.6, 7. For they that
+ſleep, ſleep in the Night; and they that be drunken, are drunken in the Night: Therefore, let
+us not ſleep as do others; but let us watch, and be ſober. <hi>Col.</hi> 4.3, 4. <hi>Col.</hi>
+2.5, 6. <hi>Philip.</hi> 3.18, 19, 20. <hi>Philip.</hi> 1.18. VVithal, Praying alſo for us, That
+<hi>God</hi> would open unto us a Door of Utterance, to ſpeak the Myſte<g ref="char:EOLhyphen"/>ry of
+<hi>Chriſt;</hi> for which I am alſo in Bonds, that I may make it manifeſt, as I ought to
+ſpeak. For though I be abſent in the Fleſh; yet am I with you in the Spirit, joy<g ref="char:EOLhyphen"/>ing and
+beholding your Order, and the ſtedfaſtneſs of your Faith in <hi>Chriſt:</hi> For ma<g ref="char:EOLhyphen"/>ny
+walk, of whom I have told you, and now tell you even weeping, That they are the Enemies of the
+Croſs of <hi>Chriſt.</hi> As ye have therefore received <hi>Chriſt Jeſus</hi> the Lord;
+ſo walk ye in him, rooted and built up in him with Thankſgiving. 2 <hi>Cor.</hi> 2.14. 1
+<hi>Cor.</hi> 11.13, 14, 17. Judge in your ſelves. Doth not even Nature it ſelf teach you, in
+this that I declare unto you. Now, Thanks be unto <hi>God,</hi> which always cau<g ref="char:EOLhyphen"/>ſes us to
+triumph in <hi>Chriſt,</hi> and maketh manifeſt the Favour of his Knowledge by us in every
+place. <hi>Haggai</hi> 1.5, 6, 9, 10. Now therefore, thus ſaith the <hi>Lord</hi> of Hoſts,
+Conſider your ways: Ye have ſown much, and bring in little; ye eat, but ye have not enough; ye
+drink, but ye are not filled with drink; ye cloath you, but there is none warm: and he that earneth
+VVages, earneth VVages to put in a bag with holes. Thus ſaith the <hi>Lord,</hi> Conſider your
+ways: Ye looked for much, and lo! it came to little; therefore the Heaven over you is ſtayed.
+<hi>Zephan.</hi> 1.14. The Great Day of the <hi>Lord</hi> is near; it is near, and haſteth
+greatly. <hi>Prov.</hi> 21.13. VVhoſo ſtoppeth his Ears at the Cry of the Poor, he alſo
+ſhall cry himſelf, but ſhall not be heard. <hi>Prov.</hi> 2.17. Bread of Deceit is ſweet to
+a Man; but afterwards his Mouth ſhall be filled with Gravel. <hi>Prov.</hi> 2.3. <hi>Prov.</hi>
+15.10. It is an Honour for a Man to ceaſe from Strife; but every Fool will be medling. Correction
+is grievous unto him that forſaketh the way; and he that hateth Reproof, ſhall die.
+<hi>Prov.</hi> 1.26, 28, 29. I alſo will laugh at your Ca<g ref="char:EOLhyphen"/>lamity; I will mock, when your
+Deſtruction cometh: Then ſhall they call upon me, but I will not anſwer; they ſhall ſeek
+me early, but they ſhall not find me: for that they hated Knowledge, and did not chooſe the
+Fear of the <hi>Lord. Iſa.</hi> 29.16. Surely, your turning of things upſide down, ſhall be
+eſteemed as the Potter's Clay. <hi>Iſa.</hi> 59.4, 5, 6. They hath <hi>Cockatrice</hi> Eggs;
+their VVebs ſhall not become Garments: None calleth for Juſtice; not any pleadeth for Truth:
+They truſt in Vanity, and ſpeak Lies; they conceive Miſchief, and bring forth Iniquity.
+<hi>Iſa.</hi> 5.2, 3, 4. VVherefore art thou red in thine Apparel, for I will tread them in mine
+Anger, and trample them in my Fury; for the Day of Vengeance is come? <hi>Jer.</hi> 7.18, 19. The
+Children gather the VVood, and the Fathers kindle the Fire. Do they provoke me to Anger, ſaith
+the <hi>Lord?</hi> Do they not provoke themſelves, to the Confuſion of their own Faces?
+<hi>Matth.</hi> 3.11, 12. <hi>Revel.</hi> 19.20. Theſe both ſhall be caſt into a Lake of
+Fire, burning with Brimſtone. But he will burn up the Chaff with unquenchable fire. <hi>John</hi>
+6.63. It is the Spirit that quickeneth, the Fleſh profiteth nothing. The words which I ſpeak
+unto you,
+<pb n="4" facs="tcp:152343:3"/>they are Spirit, and they are Life.
+<hi>Pſal.</hi> 5.11. <hi>Col.</hi> 4.4. <hi>Pſal.</hi> 1.19. But let all thoſe that put their
+truſt in thee, rejoyce; let them ſhout for joy, becauſe thou defendeſt them. Let them
+alſo, that love thy Name, be joyful in thee. Rejoyce in the Lord alway, and again, I ſay,
+Rejoyce. <hi>Iſa.</hi> 52.6, 7. How beautiful are the feet of him that bring<g ref="char:EOLhyphen"/>eth good Tydings,
+that publiſheth Peace, that bringeth good Tydings of Good, that publiſheth Salvation; that
+ſaith unto <hi>Zion,</hi> Thy <hi>God</hi> Reigneth; therefore my People ſhall know, that I am
+he that doth ſpeak; Behold, it is I, ſaith the Lord <hi>God</hi> Al<g ref="char:EOLhyphen"/>mighty? 1
+<hi>Theſſ.</hi> 5.24. Faithful is he that calleth you; who alſo will do it. <hi>Phile.</hi>
+1.9. <hi>Gal.</hi> 6.5, 17. 1 <hi>Theſſ.</hi> 5.25. Yet for Love-ſake, Brethren, being ſuch
+an one as <hi>Paul,</hi> and alſo a Priſoner of <hi>Jeſus Chriſt,</hi> pray for us.
+Henceforth let no Man trou<g ref="char:EOLhyphen"/>ble me; for I bear in my Body the Marks of the Lord <hi>Jeſus.</hi> 1
+<hi>Tim.</hi> 4.13, 14, 15. <hi>Revel.</hi> 3.11. 1 <hi>Tim.</hi> 6.15. <hi>Heb.</hi> 12.12, 14.
+<hi>Revel.</hi> 1.7. <hi>Revel.</hi> 12.12. <hi>Iſa.</hi> 55.3, 4. <hi>Revel.</hi> 2.2, 3, 15.
+<hi>Iſa.</hi> 66.9. 1 <hi>John</hi> 2.27. Neglect not the Gift that is in thee. Be<g ref="char:EOLhyphen"/>hold, I come
+quickly; hold that faſt which thou haſt, that no Man take thy Crown. Meditate upon theſe
+things; give thy ſelf wholly to them till I come; give Atten<g ref="char:EOLhyphen"/>dance. I know thy Works, and thy
+Labour, and thy Patience. For my Name's ſake thou haſt laboured, and haſt not fainted; hold
+faſt, till I come. Which in his time he ſhall ſhew, who is the Bleſſed, and only
+Potentate, the King of Kings. 2 <hi>Cor.</hi> 4.16. For which cauſe we faint not; but though our
+outward Man periſh, yet the inward Man is renewed day by day. Wherefore lift up the Hands which
+hang down, and the feeble Knees. Follow Peace with all Men, and Holineſs, without which no Man
+ſhall ſee the <hi>Lord.</hi> Behold, he cometh with Clouds; therefore, rejoyce ye Hea<g ref="char:EOLhyphen"/>vens, and
+ye that dwell in them; incline your Ear, and come unto me. Behold, I have given him for a Witneſs
+unto the People. But the Anointing which ye have re<g ref="char:EOLhyphen"/>ceived of him, abideth in you, and ye need not
+that any Man teach you; but as the ſame Anointing teacheth you of all things, and is Truth, and
+is no Lie, and even as it hath taught you, and ye ſhall abide in him. <hi>Iſa.</hi> 66.9. Shall
+I bring to the Birth, and not cauſe to bring forth, ſaith the <hi>Lord? Matth.</hi> 10.26. For
+there is nothing co<g ref="char:EOLhyphen"/>vered, that ſhall not be revealed; and hid, that ſhall not be known.</p>
+            <closer>
+               <signed>
+                  <hi>By the Servant of the Lord,</hi> JAMES RICHARDS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Leake</hi> in <hi>Jewen</hi>-Street, 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
